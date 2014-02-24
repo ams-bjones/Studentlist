@@ -17,3 +17,7 @@ DE - https://github.com/Prenzo
 CP - https://github.com/cameron10
 
 NH - https://github.com/nathan108642
+
+MM - https://github.com/10mmason
+
+EB - http://github.com/SkinnyDippingAsian
