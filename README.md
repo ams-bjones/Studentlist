@@ -14,7 +14,7 @@ TW - https://github.com/tobiaswhite
 
 DE - https://github.com/Prenzo
 
-CP - https://github.com/cameron10
+CP - https://github.com/yolomacswagin
 
 NH - https://github.com/nathan108642
 
