@@ -31,3 +31,9 @@ ER - https://github.com/EwanRobertson
 OB - https://github.com/Githubstep
 
 BF - https://github.com/killergator5
+
+DE- https://github.com/Prenzo
+
+MB - https://github.com/GitKing
+
+RG- https://github.com/10rgannon
