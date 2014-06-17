@@ -24,7 +24,7 @@ EB - https://github.com/SkinnyDippingAsian
 
 JK - https://github.com/10jknight
 
-MH - https://github.com/juicedup
+MH - https://github.com/Hermaphrodite
 
 ER - https://github.com/EwanRobertson
 
